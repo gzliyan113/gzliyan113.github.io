@@ -13,6 +13,9 @@ body {
   background: #eee;
   padding: 5px;
   border-radius: 5px;
+  /* make menus tab in bold and larger */
+  font-weight: bold; 
+  font-size: 1.25em; 
 }
 .menu, .article-meta, footer { text-align: center; }
 .title { font-size: 1.1em; }
