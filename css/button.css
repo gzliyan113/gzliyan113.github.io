@@ -1,0 +1,17 @@
+a.markdown-btn {
+  font-size: 0.9em;
+  font-family: inherit;
+  color: inherit;
+  background-color:rgba(20, 125, 174, 0.35);
+  border-radius: 5px;
+  text-align: center;
+  padding: 1px 1em 1px 1em;
+  text-decoration: none;
+  border: none;
+  cursor: pointer;
+}
+a.markdown-btn:hover, a.markdown-btn:active {
+  text-decoration: none;
+  background-color:rgba(20, 125, 174, 0.2);
+  color: inherit;
+}/*# sourceMappingURL=button.css.map */
