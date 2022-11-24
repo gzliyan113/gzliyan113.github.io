@@ -12,6 +12,6 @@ a.markdown-btn {
 }
 a.markdown-btn:hover, a.markdown-btn:active {
   text-decoration: none;
-  background-color:rgba(20, 125, 174, 0.2);
+  background-color:rgba(20, 125, 174, 0.7);
   color: inherit;
 }/*# sourceMappingURL=button.css.map */
