@@ -77,7 +77,7 @@ I play ok-level badminton, and (barely) entry-level basketball.</description>
       <guid>https://gzliyan113.github.io/research/</guid>
       <description>Research Overview I am primarily interested in developing eﬃcient and robust ﬁrst-order methods for data-driven decision making. Part of my research also goes into understanding practical ﬁrst-order methods in modern ML applications.
 With above focuses in mind, most of my technical developments concern with the following two areas.
- Reinforcement Learning: develop policy optimization methods that are algorithmically simple, computationally eﬃcient, and being robust against model uncertainties.   Algorithmic Regularization: study the implicit regularization properties aroused purely from the optimization methods in modern ML practices.</description>
+ Reinforcement Learning: develop policy optimization methods that are algorithmically simple, computationally eﬃcient, and being robust against model uncertainties.   Algorithmic Regularization: understand first-order methods in contemporary ML practices, beyond risk minimization, via their implicit regularization effects.</description>
     </item>
     
     <item>
