@@ -1,5 +1,12 @@
+/* body {
+  font-family: Optima, Candara, Calibri, Arial, sans-serif;
+} */
+/* body {
+  font-family: serif;
+} */
 body {
   font-family: Optima, Candara, Calibri, Arial, sans-serif;
+  font-size: 0.95em;
 }
 code {
   font-family: "Lucida Console", Monaco, monospace;
