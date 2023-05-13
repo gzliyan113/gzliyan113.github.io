@@ -48,6 +48,17 @@ Quisque mattis volutpat lorem vitae feugiat.</description>
     </item>
     
     <item>
+      <title></title>
+      <link>https://gzliyan113.github.io/cios/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gzliyan113.github.io/cios/</guid>
+      <description>Selected CIOS Comments On the course and lectures  &amp;ldquo;Showing how important equations and concepts were derived was one of the best features of the class because helped my understanding of the concepts tremendously.&amp;rdquo;
+  &amp;ldquo;The best feature of this course was the lecture.&amp;rdquo;
+  &amp;ldquo;The abundance of examples in the lecture notes is really helpful for understanding how specific formulas and concepts can be applied in the real world.</description>
+    </item>
+    
+    <item>
       <title>Industry</title>
       <link>https://gzliyan113.github.io/industry/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -77,7 +88,7 @@ I play ok-level badminton, and (barely) entry-level basketball.</description>
       <guid>https://gzliyan113.github.io/research/</guid>
       <description>Research Overview I am primarily interested in developing eﬃcient and robust ﬁrst-order methods for data-driven decision making. Part of my research also goes into understanding practical ﬁrst-order methods in ML applications.
 With above focuses in mind, most of my technical developments can be summarized into:
- Reinforcement learning: develop first-order policy optimization methods that are simple, eﬃcient, and robust against modeling uncertainties.   Algorithmic regularization: understand first-order methods beyond risk minimization via implicit regularization.</description>
+ reinforcement learning: develop first-order policy optimization methods that are simple, eﬃcient, and robust against modeling uncertainties.   algorithmic regularization: understand first-order methods beyond risk minimization via implicit regularization.</description>
     </item>
     
     <item>
@@ -86,7 +97,7 @@ With above focuses in mind, most of my technical developments can be summarized 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gzliyan113.github.io/service/</guid>
-      <description>1. Peer Reviewing Journal:  SIAM Journal on Optimization Mathematics of Operations Research IEEE Transactions on Pattern Analysis and Machine Intelligence  Conference:  ICML NeurIPS ICLR AISTATS  2. Teaching Instructor:  ISYE 3770: Statistics and Applications  Spring 2023 One-semester probability and statistics course for engineering students In-class discussions in whiteboard, lectures notes coming soon    Teaching Assistant:  ISYE 3770: Statistics and Applications  Fall 2018, Spring 2019    </description>
+      <description>1. Peer Reviewing Journal:  SIAM Journal on Optimization Mathematics of Operations Research IEEE Transactions on Pattern Analysis and Machine Intelligence  Conference:  International Conference on Machine Learning (ICML) Conference on Neural Information Processing Systems (NeurIPS) International Conference on Learning Representations (ICLR) International Conference on Artificial Intelligence and Statistics (AISTAT)  2. Session Organization  INFORMS Annual Meeting, 2023, Phoenix  Recent Advances in Policy Optimization and Reinforcement Learning - Part I Recent Advances in Policy Optimization and Reinforcement Learning - Part II    </description>
     </item>
     
     <item>
@@ -95,14 +106,22 @@ With above focuses in mind, most of my technical developments can be summarized 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gzliyan113.github.io/talk/</guid>
-      <description>Invited Talks ISyE PhD Student Seminar (GaTech, April 2023, Atlanta)
-- Policy Mirror Descent Inherectly Explores Action Space - Student host: Xinyu Liu, Sourabh Choudhary
+      <description>Invited Talks INFORMS Annual Meeting (INFORMS, October 2023, Phoenix)
+- Stochastic First-order Optimization for Robust Markov Decision Process (Tentative) - Host: Sajad Khodadadian Slides
+SIAM Conference on Optimization (OP23, June 2023, Seattle)
+- Policy Mirror Descent Inherectly Explores Action Space (Tentative) - Host: Prof. Zhaoran Wang (Northwestern University), Prof. George Lan (Georgia Tech)
 Slides
-INFORMS Annual Meeting (INFORMS, October 2022, Indianapolis)
-- Homotopic Policy Mirror Descent: Policy Convergence, Implicit Regularization, and Improved Sample Complexity - Host: Prof. Afrooz Jalilzadeh (University of Arizona)
-Slides
-International Conference on Continuous Optimization (ICCOPT, July 2022, Lehigh University)
-- Homotopic Policy Mirror Descent: Policy Convergence, Implicit Regularization, and Improved Sample Complexity - Host: Prof.</description>
+ISyE PhD Student Seminar (GaTech, April 2023, Atlanta)
+- Policy Mirror Descent Inherectly Explores Action Space - Student host: Xinyu Liu, Sourabh Choudhary</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://gzliyan113.github.io/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gzliyan113.github.io/teaching/</guid>
+      <description>1. Instructor  ISYE 3770: Statistics and Applications, Spring 2023  One-semester probability (1st half) and statistics (2nd half) course for students majoring in engineering. Design curriculum, lecture notes, homeworks, and exams. Class size: 69. I believe in the essential role of white-board discussion for teaching/learning statistics. You might find the following resources, which I have designed and used myself for this course, helpful:  Syllabus Lecture notes (post-lecture annotated version available upon request)   Teaching evaluation: 4.</description>
     </item>
     
   </channel>
