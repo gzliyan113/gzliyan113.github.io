@@ -274,11 +274,10 @@ if (!doNotTrack) {
 <main>
 <h2 id="research-overview">Research Overview</h2>
 <p>I am primarily interested in developing eﬃcient and robust ﬁrst-order methods for data-driven decision making. Part of my research also goes into understanding practical ﬁrst-order methods in ML applications. Below is a short summary on topics I work on and  roughly how I split my efforts.</p>
-<!-- the backround color here is the same as the button -->
 <p><strong><span style="font-size: 11px;">▶</span> Reinforcement learning</strong> <span style="background-color: rgba(20, 125, 174, 0.35); padding: 0px 3px; border-radius: 3px; font-size: 13px;">60%</span><br>
 My goal is to develop first-order policy optimization methods featuring (hopefully all, but) at least one of the principles:</p>
 <ul>
-<li>Simple to desribe and implement.</li>
+<li>Simple to describe and implement.</li>
 <li>Computationally and statistically efficient.</li>
 <li>Robust in the sense of being algorithmically stable, or can hedge against modeling uncertainty.</li>
 </ul>
@@ -286,11 +285,28 @@ My goal is to develop first-order policy optimization methods featuring (hopeful
 This line of research discusses the solution structures (e.g., large-margin, \(\ell_2\)-regularization, exploration) automatically imposed by simple first-order methods, through potentially noisy gradient dynamics.</p>
 <p><strong><span style="font-size: 11px;">▶</span> Random exploration</strong> <span style="background-color: rgba(20, 125, 174, 0.35); padding: 0px 3px; border-radius: 3px; font-size: 13px;">10%</span><br>
 Mostly for personal interest. This also includes some past time on recommendation systems and multi-agent RL methods through internships and industry collaboration, details can be found <a href="../industry"><strong>here</strong></a>.</p>
+<!-- controls the margin and padding for list env -->
 <style>
-  li {
-    margin-bottom: 10px;
+  .custom-list {
+    padding: 0;
+    margin: 0;
+  }
+
+  .custom-list li {
+    margin-bottom: 8px; /* space between items */
+    padding-left: 40px; /* Add desired padding value */
+    list-style-type: none; /* Remove default bullet point */
+  }
+
+  .custom-list li::before {
+    content: "•"; /* Add bullet point character */
+    display: inline-block;
+    width: 10px; /* Adjust bullet point width */
+    text-align: center;
+    margin-left: -20px; /* Adjust negative margin to remove space */
   }
 </style>
+<!-- use smaller font for awards, locally -->
 <span style="font-size: 14px;">
   <ul>
     <li>
@@ -309,7 +325,7 @@ Mostly for personal interest. This also includes some past time on recommendatio
 </span>
 <br>
 <h2>Preprints/Working Papers</h2>
-<ul>
+<ul class="custom-list">
   <li>
     <b><a href="https://arxiv.org/pdf/2209.10579.pdf">First-order Policy Optimization for Robust Markov Decision Process</a></b><br>
     <b>Yan Li</b>, Tuo Zhao, Guanghui Lan
@@ -328,7 +344,7 @@ Mostly for personal interest. This also includes some past time on recommendatio
   </li>
 </ul>
 <h2>Journal</h2>
-<ul>
+<ul class="custom-list">
   <li>
     <b><a href="https://arxiv.org/abs/2201.05756">Block Policy Mirror Descent</a></b><br>
     Guanghui Lan, <b>Yan Li</b>, Tuo Zhao<br>
@@ -349,7 +365,7 @@ Mostly for personal interest. This also includes some past time on recommendatio
   </li>
 </ul>
 <h2>Conference</h2>
-<ul>
+<ul class="custom-list">
   <li>
     <b><a href="https://arxiv.org/abs/2110.04844">Frequency-aware SGD for Efficient Embedding Learning with Provable Benefits</a></b><br>
     <b>Yan Li</b>, Dhruv Choudhary, Xiaohan Wei, Baichuan Yuan, Bhargav Bhushanam, Tuo Zhao, Guanghui Lan<br>
