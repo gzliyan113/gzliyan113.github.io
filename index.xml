@@ -64,10 +64,10 @@ Quisque mattis volutpat lorem vitae feugiat.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gzliyan113.github.io/industry/</guid>
-      <description>I have been fortunate enough to play with some interesting and challenging optimization tasks for training neural recommendation models at an industrial scale.
+      <description>1. Research Intern I have been fortunate enough to play with some interesting and challenging optimization tasks for training neural recommendation models at an industrial scale.
 These recommenders, along with their embedding tables, easily exceed Trillion bytes in size.
 Training at this scale creates many interesting stochastic and distributed optimization problems, and calls for usecase-dependent method development.
- Research Intern, Facebook (Meta), Ads Ranking  Date: May 2021 - Nov 2021. Mentor: Xiaohan Wei, Dhruv Choudhary.</description>
+ Research Intern, Facebook (Meta), Ads Ranking  Date: May 2021 - Nov 2021.</description>
     </item>
     
     <item>
@@ -86,9 +86,9 @@ I play ok-level badminton, and (barely) entry-level basketball.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gzliyan113.github.io/research/</guid>
-      <description>Research Overview I am primarily interested in developing eﬃcient and robust ﬁrst-order methods for data-driven decision making. Part of my research also goes into understanding practical ﬁrst-order methods in ML applications.
-With above focuses in mind, most of my technical developments can be summarized into:
- reinforcement learning: develop first-order policy optimization methods that are simple, eﬃcient, and robust against modeling uncertainties.   algorithmic regularization: understand first-order methods beyond risk minimization via implicit regularization.</description>
+      <description>Research Overview I am primarily interested in developing eﬃcient and robust ﬁrst-order methods for data-driven decision making. Part of my research also goes into understanding practical ﬁrst-order methods in ML applications. Below is a short summary on topics I work on and roughly how I split my efforts.
+\(\blacktriangle\) Reinforcement learning [60%]:
+My goal is to develop first-order policy optimization methods featuring (hopefully all, but) at least one of the principles:</description>
     </item>
     
     <item>
