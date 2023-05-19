@@ -213,6 +213,17 @@ if (!doNotTrack) {
 
 
 <style>
+     
+    .triangle:before {
+      content: "";
+      border-top: 5px solid transparent;
+      border-bottom: 5px solid transparent;
+      border-left: 10px solid black;
+      display: inline-block;
+      transform: rotate(0deg);
+      margin-right: 2px;
+    }
+     
     body.dark-mode, 
     body.dark-mode main * {
         background: rgb(45, 45, 45);
@@ -262,6 +273,11 @@ if (!doNotTrack) {
     background-color:rgba(20, 125, 174, 0.85);
     color: inherit;
     } 
+
+     
+    body.dark-mode .triangle:before {
+    border-left: 10px solid white;
+    }
 </style>
 
     </ul>
