@@ -64,10 +64,10 @@ Quisque mattis volutpat lorem vitae feugiat.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gzliyan113.github.io/industry/</guid>
-      <description>1. Research Intern I have been fortunate enough to play with some interesting and challenging optimization tasks for training neural recommendation models at an industrial scale.
+      <description>Research Intern I have been fortunate enough to play with some interesting and challenging optimization tasks for training neural recommendation models at an industrial scale.
 These recommenders, along with their embedding tables, easily exceed Trillion bytes in size.
 Training at this scale creates many interesting stochastic and distributed optimization problems, and calls for usecase-dependent method development.
- Research Intern, Facebook (Meta), Ads Ranking  Date: May 2021 - Nov 2021.</description>
+ Research Intern, Facebook (Meta), Ads Ranking  Date: May 2021 - Nov 2021. Mentor: Dr.</description>
     </item>
     
     <item>
@@ -96,7 +96,7 @@ In Spring 2017 I passed the real analysis comprehensive exam (pass ratio 7/13) o
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gzliyan113.github.io/service/</guid>
-      <description>1. Peer Reviewing Journal:  SIAM Journal on Optimization Mathematics of Operations Research IEEE Transactions on Pattern Analysis and Machine Intelligence  Conference:  International Conference on Machine Learning (ICML) Conference on Neural Information Processing Systems (NeurIPS) International Conference on Learning Representations (ICLR) International Conference on Artificial Intelligence and Statistics (AISTAT)  2. Session Organization  INFORMS Annual Meeting, 2023, Phoenix  Recent Advances in Policy Optimization and Reinforcement Learning - Part I Recent Advances in Policy Optimization and Reinforcement Learning - Part II    </description>
+      <description>Peer Reviewing Journal:  SIAM Journal on Optimization Mathematics of Operations Research IEEE Transactions on Pattern Analysis and Machine Intelligence  Conference:  International Conference on Machine Learning (ICML) Conference on Neural Information Processing Systems (NeurIPS) International Conference on Learning Representations (ICLR) International Conference on Artificial Intelligence and Statistics (AISTAT)  Session Organization  INFORMS Annual Meeting, 2023, Phoenix  Recent Advances in Policy Optimization and Reinforcement Learning - Part I Recent Advances in Policy Optimization and Reinforcement Learning - Part II    </description>
     </item>
     
     <item>
@@ -114,7 +114,7 @@ In Spring 2017 I passed the real analysis comprehensive exam (pass ratio 7/13) o
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gzliyan113.github.io/teaching/</guid>
-      <description>1. Instructor  ISYE 3770: Statistics and Applications, Spring 2023  One-semester probability (1st half) and statistics (2nd half) course for students majoring in engineering. Design curriculum, lecture notes, homeworks, and exams. Class size: 69. I believe in the essential role of white-board discussion for teaching/learning statistics. You might find the following resources, which I have designed and used myself for this course, helpful:  Syllabus Lecture notes (post-lecture annotated version available upon request)   Teaching evaluation: 4.</description>
+      <description>Instructor  ISYE 3770: Statistics and Applications, Spring 2023  One-semester probability (1st half) and statistics (2nd half) course for students majoring in engineering. Design curriculum, lecture notes, homeworks, and exams. Class size: 69. I believe in the essential role of white-board discussion for teaching/learning statistics. You might find the following resources, which I have designed and used myself for this course, helpful:  Syllabus Lecture notes (post-lecture annotated version available upon request)   Teaching evaluation: 4.</description>
     </item>
     
   </channel>
