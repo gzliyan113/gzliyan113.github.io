@@ -311,7 +311,33 @@ if (!doNotTrack) {
   }
 </style>
 <h2 id="research-overview">Research Overview</h2>
-<p>I am primarily interested in developing eﬃcient and robust ﬁrst-order methods for data-driven decision making. Part of my research also goes into understanding practical ﬁrst-order methods in ML applications. Below is a short summary on topics I work on.</p>
+<p>My research resides in the design and analysis of novel and efficient (in both computational and statistical sense) first-order methods applied to single- and multi-stage data-driven decision making problems. I am particularly driven by discovering new ways of understanding and solving problems featuring minimax structures.
+Complementarily, I study long-existing simple first-order methods, focusing on their unorthodox learning behaviors in structured machine learning problems.<br>
+Combining optimization techniques and structure-driven observations, part of my research produces natural and improved methods for real-life machine learning applications.</p></p>
+<p><strong>1. Minimax optimization.</strong> I study the basic question of designing first-order methods with optimal complexities in both deterministic and stochastic regimes applied to convex-concave minimax problems, as well as their natural extensions to structured nonconvex-nonconcave problems with global convergence guarantees.
+<!-- My research also considers devising efficient methods for structured nonconvex-nonconcave problems including minimax Markov game and robust Markov decision processes with global convergence guarantees. -->
+</p>
+<p><strong>2. Policy optimization.</strong> My research addresses two essential components when optimizing Markov decision processes:</p>
+<ul>
+    <li><strong>Efficiency:</strong> I seek simplicity in design and fine-grained characterization on both computational and statistical aspects of policy gradient methods. 
+    Notably my research devises a novel variant featuring previously unknown global-to-local phase transition and policy convergence. 
+    Computationally, I approach large-scale MDPs with a method of low iteration complexity while attaining instance-dependent acceleration over traditional alternatives.
+    Statistically, I consider efficient exploration and propose a method with inherent action space exploration. 
+    </li>
+    <br>
+    <li><strong>Robustness:</strong> Naively optimizing MDPs can be impractical as minor changes in environment can incur catastrophic degradation. 
+    My research addresses this problem from both modeling and methodology aspects. 
+    For modeling, I seek to understand different minimax formulations of robust MDPs and their intrinsic connections. Methodologically my research devises the first policy gradient method for solving robust MDPs with general structured ambiguity sets of transition kernels. 
+    I highlight a marriage between modeling and algorithm design that produces the first convergent policy evaluation method for large-scale robust MDPs, thereby resolving a decade-long open question.
+    </li>
+</ul>
+<p><strong>3. Structured Machine Learning &amp; Applications.</strong> Oftentimes real-life machine learning applications are treated with generic optimization methods.
+I advocate the alternative that problem structures are essential.
+This leads to new understandings on simple first-order methods beyond optimization wisdom,
+and enables improved stochastic training method that surpasses well-refined optimizers in <a href="../industry">Meta's recommender systems</a>.</p>
+<!-- 
+I am primarily interested in developing eﬃcient and robust ﬁrst-order methods for data-driven decision making. Part of my research also goes into understanding practical ﬁrst-order methods in ML applications. Below is a short summary on topics I work on.
+
 <p class="triangle"> 
   <b> Policy optimization</b> 
   <span style="background-color: rgba(20, 125, 174, 0.35); padding: 0px 3px; border-radius: 3px; font-size: 13px;">70%</span>
@@ -323,18 +349,22 @@ if (!doNotTrack) {
     <li>Robust in the sense of being algorithmically stable and capable of hedging against modeling uncertainty.</li>
   </ul>
 </p>
+
+
 <p class="triangle"> 
   <b> Algorithmic regularization</b> 
   <span style="background-color: rgba(20, 125, 174, 0.35); padding: 0px 3px; border-radius: 3px; font-size: 13px;">20%</span>
   <br>
   This line of research discusses the solution structures (e.g., large-margin, Tikhonov regularization, exploration) automatically imposed by simple first-order methods, through potentially noisy gradient dynamics.
 </p>
+
+
 <p class="triangle"> 
     <b> Random exploration</b> 
     <span style="background-color: rgba(20, 125, 174, 0.35); padding: 0px 3px; border-radius: 3px; font-size: 13px;">10%</span>
     <br>
     Mostly for personal interest. This also includes some past time on recommendation systems and multi-agent RL methods through internships and industry collaboration, details can be found <a href="../industry"><b>here</b></a>.
-</p> 
+</p>  -->
 <!-- 
 Part of my research has been kindly acknowledged by 
 <!-- use smaller font for awards, locally -->
@@ -354,21 +384,6 @@ Part of my research has been kindly acknowledged by
     </li>
   </ul>
 </span> --> 
-<p>Part of my research has been kindly acknowledged by</p>
-<ul>
-  <li>
-    <b><a href="https://www.isye.gatech.edu/academics/doctoral/current-students/graduate-awards">Alice and John Jarvis Ph.D. Student Research Award</a></b><br>
-    Awarded annually to one Ph.D. student (co-winner) in ISyE across all disciplines.
-  </li>
-  <li>
-    <b><a href="https://www.isye.gatech.edu/academics/doctoral/current-students/graduate-awards">The Margaret and Stephen Kendrick Research Excellence Award</a></b><br>
-    Awarded annually to one Ph.D. student (co-winner) in ISyE for research in machine learning and analytics.
-  </li>
-  <li>
-    <b><a href="https://research.gatech.edu/data/funding">IDEaS-TRIAD Research Scholarship</a></b><br>
-    Institute-wide scholarship to support research in high-impact cross-disciplinary data science related areas.
-  </li>
-</ul>
 <h2>Journal</h2>
 <ul class="custom-list">
   <li>
@@ -476,7 +491,22 @@ Part of my research has been kindly acknowledged by
     <b>Yan Li</b>, Lingxiao Wang, Jiachen Yang, Ethan Wang, Zhaoran Wang, Tuo Zhao, Hongyuan Zha
   </li>
 </ul>
-<br>
+<h2>Research Awards</h2>
+Part of my research has been kindly acknowledged by 
+<ul>
+  <li>
+    <b><a href="https://www.isye.gatech.edu/academics/doctoral/current-students/graduate-awards">Alice and John Jarvis Ph.D. Student Research Award</a></b><br>
+    Awarded annually to one Ph.D. student (co-winner) in ISyE across all disciplines.
+  </li>
+  <li>
+    <b><a href="https://www.isye.gatech.edu/academics/doctoral/current-students/graduate-awards">The Margaret and Stephen Kendrick Research Excellence Award</a></b><br>
+    Awarded annually to one Ph.D. student (co-winner) in ISyE for research in machine learning and analytics.
+  </li>
+  <li>
+    <b><a href="https://research.gatech.edu/data/funding">IDEaS-TRIAD Research Scholarship</a></b><br>
+    Institute-wide scholarship to support research in high-impact cross-disciplinary data science related areas.
+  </li>
+</ul>
 <!-- Part of my research has been kindly acknowledged by 
 - __[Alice and John Jarvis Ph.D. Student Research Award]()__  
   Awarded annually to two Ph.D. students in ISyE, across all disciplines, in recognition of a representative paper.
