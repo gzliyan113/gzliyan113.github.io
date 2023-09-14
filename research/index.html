@@ -311,18 +311,12 @@ if (!doNotTrack) {
   }
 </style>
 <h2 id="research-overview">Research Overview</h2>
-<p>My research resides in the design and analysis of novel and efficient (in both computational and statistical sense) first-order methods applied to single- and multi-stage data-driven decision making problems. I am particularly driven by discovering new ways of understanding and solving problems featuring minimax structures.
+<p>My research resides in the design and analysis of novel and efficient (in both computational and statistical sense) first-order methods applied to single- and multi-stage data-driven decision-making problems. I am particularly driven by discovering new ways of understanding and solving problems with rich structures.
 Complementarily, I study long-existing simple first-order methods, focusing on their unorthodox learning behaviors in structured machine learning problems.<br>
 Combining optimization techniques and structure-driven observations, part of my research produces natural and improved methods for real-life machine learning applications.</p></p>
-<p><strong>1. Minimax optimization.</strong> I study the basic question of designing first-order methods with optimal complexities in both deterministic and stochastic regimes applied to convex-concave minimax problems, as well as their natural extensions to structured nonconvex-nonconcave problems with global convergence guarantees.
-<!-- My research also considers devising efficient methods for structured nonconvex-nonconcave problems including minimax Markov game and robust Markov decision processes with global convergence guarantees. -->
-</p>
-<p><strong>2. Policy optimization.</strong> My research addresses two essential components when optimizing Markov decision processes:</p>
+<p><strong>1. Policy optimization.</strong> My research addresses two essential components when optimizing Markov decision processes:</p>
 <ul>
-    <li><strong>Efficiency:</strong> I seek simplicity in design and fine-grained characterization on both computational and statistical aspects of policy gradient methods. 
-    Notably my research devises a novel variant featuring previously unknown global-to-local phase transition and policy convergence. 
-    Computationally, I approach large-scale MDPs with a method of low iteration complexity while attaining instance-dependent acceleration over traditional alternatives.
-    Statistically, I consider efficient exploration and propose a method with inherent action space exploration. 
+    <li><strong>Efficiency:</strong> I seek simplicity in design and fine-grained characterization of both computational and statistical aspects of policy gradient methods. Computationally, I approach large-scale MDPs with a method of low iteration complexity while attaining instance-dependent acceleration over traditional alternatives. Notably, a method introduced by me features previously unknown global-to-local phase transition and policy convergence. Statistically, I design methods with optimal sample complexities. In the absence of generative models, I highlight a simple method that inherently explores the action space efficiently.
     </li>
     <br>
     <li><strong>Robustness:</strong> Naively optimizing MDPs can be impractical as minor changes in environment can incur catastrophic degradation. 
@@ -331,6 +325,9 @@ Combining optimization techniques and structure-driven observations, part of my 
     I highlight a marriage between modeling and algorithm design that produces the first convergent policy evaluation method for large-scale robust MDPs, thereby resolving a decade-long open question.
     </li>
 </ul>
+<p><strong>2. Minimax optimization.</strong> I study the basic question of designing first-order methods with optimal complexities in both deterministic and stochastic regimes applied to convex-concave minimax problems, as well as their natural extensions to structured nonconvex-nonconcave problems with global convergence guarantees.
+<!-- My research also considers devising efficient methods for structured nonconvex-nonconcave problems including minimax Markov game and robust Markov decision processes with global convergence guarantees. -->
+</p>
 <p><strong>3. Structured Machine Learning &amp; Applications.</strong> Oftentimes real-life machine learning applications are treated with generic optimization methods.
 I advocate the alternative that problem structures are essential.
 This leads to new understandings on simple first-order methods beyond optimization wisdom,
