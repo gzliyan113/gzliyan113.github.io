@@ -87,7 +87,7 @@ Before joining ISyE PhD program, I passed the real analysis comprehensive exam (
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gzliyan113.github.io/research/</guid>
-      <description>.custom-list { padding: 0; margin: 0; } .custom-list li { margin-bottom: 8px; /* space between items */ padding-left: 40px; /* Add desired padding value */ list-style-type: none; /* Remove default bullet point */ } .custom-list li::before { content: &#34;•&#34;; /* Add bullet point character */ display: inline-block; width: 10px; /* Adjust bullet point width */ text-align: center; margin-left: -20px; /* Adjust negative margin to remove space */ }  Research Overview My research resides in the design and analysis of novel and efficient (in both computational and statistical sense) first-order methods applied to single- and multi-stage data-driven decision-making problems.</description>
+      <description>.custom-list { padding: 0; margin: 0; } .custom-list li { margin-bottom: 8px; /* space between items */ padding-left: 40px; /* Add desired padding value */ list-style-type: none; /* Remove default bullet point */ } .custom-list li::before { content: &#34;•&#34;; /* Add bullet point character */ display: inline-block; width: 10px; /* Adjust bullet point width */ text-align: center; margin-left: -20px; /* Adjust negative margin to remove space */ }  Research Overview My research resides in the design and analysis of novel and efficient (in both computational and statistical terms) first-order methods applied to single- and multi-stage data-driven decision-making problems.</description>
     </item>
     
     <item>
