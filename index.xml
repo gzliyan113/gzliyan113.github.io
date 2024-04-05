@@ -64,9 +64,7 @@ Quisque mattis volutpat lorem vitae feugiat.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gzliyan113.github.io/industry/</guid>
-      <description>Research Intern I have been fortunate enough to play with some interesting and challenging optimization tasks for training neural recommendation models at an industrial scale.
-These recommenders, along with their embedding tables, easily exceed Trillion bytes in size.
-Training at this scale creates many interesting stochastic and distributed optimization problems, and calls for usecase-dependent method development.
+      <description>Research Intern I have been fortunate enough to play with some interesting and challenging optimization tasks for training neural recommendation models at an industrial scale. These recommenders, along with their embedding tables, easily exceed trillion bytes in size. Training at this scale creates many interesting stochastic and distributed optimization problems, and calls for usecase-dependent method development.
  Research Intern, Facebook (Meta), Ads Ranking  Date: May 2021 - Nov 2021. Mentor: Dr.</description>
     </item>
     
@@ -76,9 +74,10 @@ Training at this scale creates many interesting stochastic and distributed optim
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gzliyan113.github.io/misc/</guid>
-      <description>Outside Research I occasionally lift with optimizers Hongzhang, Chungjae and Kaizhao, unfortunately I&amp;rsquo;m also prone to injury. Job search is brutal, I lost around 18 pounds in 2 months.
+      <description>Outside Research I occasionally lift with optimizers Hongzhang, Chungjae and Kaizhao, unfortunately I&amp;rsquo;m also prone to injury.
 I play ok-level badminton, and (barely) entry-level basketball.
-Before joining ISyE PhD program, I passed the real analysis comprehensive exam (Spring 2017, pass ratio 7/13) of PhD program in Math at Georgia Tech.</description>
+Before joining ISyE PhD program, I passed the real analysis comprehensive exam (Spring 2017, pass ratio 7/13) of PhD program in Math at Georgia Tech.
+I was on the 23-24 academic job market, a brutal process for which I am grateful in retrospect.</description>
     </item>
     
     <item>
@@ -87,7 +86,7 @@ Before joining ISyE PhD program, I passed the real analysis comprehensive exam (
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gzliyan113.github.io/research/</guid>
-      <description>.custom-list { padding: 0; margin: 0; } .custom-list li { margin-bottom: 8px; /* space between items */ padding-left: 40px; /* Add desired padding value */ list-style-type: none; /* Remove default bullet point */ } .custom-list li::before { content: &#34;•&#34;; /* Add bullet point character */ display: inline-block; width: 10px; /* Adjust bullet point width */ text-align: center; margin-left: -20px; /* Adjust negative margin to remove space */ }  Research Overview My research focuses on the design and analysis of novel data-driven first-order methods to support robust and efficient decision making under uncertainty.</description>
+      <description>.custom-list { padding: 0; margin: 0; } .custom-list li { margin-bottom: 8px; /* space between items */ padding-left: 40px; /* Add desired padding value */ list-style-type: none; /* Remove default bullet point */ } .custom-list li::before { content: &#34;•&#34;; /* Add bullet point character */ display: inline-block; width: 10px; /* Adjust bullet point width */ text-align: center; margin-left: -20px; /* Adjust negative margin to remove space */ }  Research Overview My research focuses on the design and analysis of novel data-driven gradient-based methods to support decision making under uncertainty.</description>
     </item>
     
     <item>
