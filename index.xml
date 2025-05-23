@@ -64,7 +64,7 @@ I spend most of my time outside research with my wife Hairong, and she has been 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gzliyan113.github.io/research/</guid>
-      <description>.custom-list { padding: 0; margin: 0; } .custom-list li { margin-bottom: 8px; /* space between items */ padding-left: 40px; /* Add desired padding value */ list-style-type: none; /* Remove default bullet point */ } .custom-list li::before { content: &#34;•&#34;; /* Add bullet point character */ display: inline-block; width: 10px; /* Adjust bullet point width */ text-align: center; margin-left: -20px; /* Adjust negative margin to remove space */ }  § Research Overview My research focuses on the design and analysis of novel data-driven gradient-based methods to support decision making under uncertainty.</description>
+      <description>.custom-list { padding: 0; margin: 0; } .custom-list li { margin-bottom: 8px; /* space between items */ padding-left: 40px; /* Add desired padding value */ list-style-type: none; /* Remove default bullet point */ } .custom-list li::before { content: &#34;•&#34;; /* Add bullet point character */ display: inline-block; width: 10px; /* Adjust bullet point width */ text-align: center; margin-left: -20px; /* Adjust negative margin to remove space */ }  § Research Overview I am interested in the computational perspective of learning optimal decisions from data.</description>
     </item>
     
     <item>
