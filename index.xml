@@ -44,7 +44,8 @@
       
       <guid>https://gzliyan113.github.io/industry/</guid>
       <description>§ Industry Research I have been fortunate enough to play with some interesting and challenging optimization tasks for training neural recommendation models at an industrial scale. These recommenders, along with their embedding tables, easily exceed trillion bytes in size. Training at this scale creates many interesting stochastic and distributed optimization problems, and calls for usecase-dependent method development.
- Research Intern, Facebook (Meta), Ads Ranking  Date: May 2021 - Nov 2021.</description>
+Research Intern, Facebook (Meta), Ads Ranking (May 2021 - Nov 2021)
+ Mentor: Xiaohan Wei, Dhruv Choudhary.</description>
     </item>
     
     <item>
@@ -73,9 +74,9 @@ I spend most of my time outside research with my wife Hairong, and she has been 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gzliyan113.github.io/service/</guid>
-      <description>§ Peer Reviewing   Journal:
- IEEE Transactions on Pattern Analysis and Machine Intelligence Journal of Machine Learning Research Mathematics of Operations Research Mathematical Programming Optimization Letters Operations Research SIAM Journal on Mathamatics of Data Science SIAM Journal on Optimization    Conference:
- International Conference on Machine Learning (ICML) Conference on Neural Information Processing Systems (NeurIPS) International Conference on Learning Representations (ICLR) International Conference on Artificial Intelligence and Statistics (AISTAT)    § Sessions &amp;amp; Minisymposiums  International Conference on Continuous Optimization, 2025, Los Angelos International Symposium on Mathematical Programming, 2024, Montreal INFORMS Optimization Society Conference, 2024, Houston INFORMS Annual Meeting, 2023, Phoenix  </description>
+      <description>§ Peer Reviewing Journal:
+ IEEE Transactions on Pattern Analysis and Machine Intelligence Journal of Machine Learning Research Mathematics of Operations Research Mathematical Programming Optimization Letters Operations Research SIAM Journal on Mathamatics of Data Science SIAM Journal on Optimization  Conference:
+ International Conference on Machine Learning (ICML) Conference on Neural Information Processing Systems (NeurIPS) International Conference on Learning Representations (ICLR) International Conference on Artificial Intelligence and Statistics (AISTAT)  § Sessions &amp;amp; Minisymposiums  International Conference on Continuous Optimization, 2025, Los Angelos International Symposium on Mathematical Programming, 2024, Montreal INFORMS Optimization Society Conference, 2024, Houston INFORMS Annual Meeting, 2023, Phoenix  </description>
     </item>
     
     <item>
@@ -102,7 +103,9 @@ Texas A&amp;M University</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gzliyan113.github.io/teaching/</guid>
-      <description>§ Instructor  ISYE 3770: Statistics and Applications, Spring 2023, Georgia Tech  Introductory probability and statistics course for engineering-majored students. Class size: 69. Teaching evaluation: 4.8/5.0.   Design curriculum, lecture notes, homeworks, and exams. I believe in the essential role of white-board discussion for teaching mathematical content. Kindly find my self-designed syllabus and lecture notes here.    § Teaching Assistant  ISYE 3770: Statistics and Applications, Fall 2018, Spring 2019, Georgia Tech  § Teaching Awards  ISyE Outstanding Graduate Student Instructor Award, 2023, Georgia Tech.</description>
+      <description>§ Instructor ISEN 310: Uncertainty Modeling, Fall 2025, Texas A&amp;amp;M
+ Intro to probability and statistics for IE undergrad.   ISEN 320, Operations Research I, Fall 2024, Texas A&amp;amp;M
+ Intro to linear and discrete optimization (enrollment: 90, 2 sections).   Teaching evaluation (click to expand)     Concepts Thinking Feedback Environment Pedagogy     Sec. I 3.64 3.74 4.64 4.63 2.85   Sec.</description>
     </item>
     
   </channel>

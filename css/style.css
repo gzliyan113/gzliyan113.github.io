@@ -85,3 +85,39 @@ a:active {
   text-decoration: underline;
 }
 
+/* 1. Tighten spacing below section/subsection headers */
+h2, h3 {
+  margin-bottom: 0.2em;
+} 
+
+/* 1. Reduce space between paragraph and following list */
+p + ul,
+p + ol,
+ul + p,
+ol + p {
+  margin-top: 0.1em; /* tighten paragraph-to-list spacing */
+}
+
+/* 2. spacing paragraph bottom spacing */
+p {
+  margin-bottom: 0.0em;
+}
+
+/* 3. Normalize spacing around lists */
+ul, ol {
+  margin-top: 1.0em;
+  margin-bottom: 0.5em;
+  padding-left: 2.2em; /* adjust indentation as needed */
+}
+
+/* increase space in front of the bottom of index page (dash line) */
+main {
+  padding-bottom: 0.5em; /* or try 4em, depending on how much space you want */
+}
+
+
+
+
+
+
+

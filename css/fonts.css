@@ -1,7 +1,4 @@
-/* body {
-  font-family: Optima, Candara, Calibri, Arial, sans-serif;
-  font-size: 95%;
-} */
+/* note this font.css overrides the theme's font.css */
 body {
   font-family: Gill Sans, sans-serif;
   font-size: 100%;
@@ -10,3 +7,4 @@ code {
   font-family: "Lucida Console", Monaco, monospace;
   font-size: 100%;
 }
+
